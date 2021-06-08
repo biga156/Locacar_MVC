@@ -1,0 +1,7 @@
+<?php
+class [nomClasse] extends Entity {
+	public function __construct($id=0) {
+		parent::__construct("[nomTable]", "[nomCle]",$id);
+	}
+}
+?>

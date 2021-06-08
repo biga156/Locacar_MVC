@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "locacar",
+            "dialect": "MySQL",
+            "name": "locacar",
+            "password": "gabor",
+            "port": 3306,
+            "server": "localhost",
+            "username": "gabor"
+        }
+    ]
+}
